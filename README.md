@@ -1,0 +1,2 @@
+# ProjectWebDev
+This is my second www project. I followed instructions from Udemy course for css and html begginers (link below). Main purpose of this project was to practise knowledge that I accumuleted during mentioned course. Main points ot this design was to make easy to navigate responsive web that uses only basic css and html. There are many ways that i could improve this project like: removing place holders, cleaning up repetitive code, unifying design patterns for diffeerent media queries etc.
